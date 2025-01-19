@@ -22,7 +22,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
 </div>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigpidture)](https://solved.ac/bigpidture/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getsoss&show_icons=true&theme=default)
