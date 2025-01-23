@@ -1,5 +1,5 @@
 <div align="center">
-  <p>:bulb: <strong>Tech Stack</strong> :bulb:</p>
+  <h2><p>:bulb: <strong>Tech Stack</strong> :bulb:</p></h2>
   <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp; 
@@ -10,7 +10,7 @@
   </div>
   
 
-  <p>:pencil2: <strong>Style</strong> :pencil2:</p>
+  <h2><p>:pencil2: <strong>Style</strong> :pencil2:</p></h2>
   <div>
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/tailwindcss-17A7C9?style=for-the-badge&logo=tailwindcss&logoColor=white">&nbsp;
@@ -19,7 +19,7 @@
   </div>
   
 
-  <p>:sparkles: <strong>Activity</strong> :sparkles:</p>
+  <h2><p>:sparkles: <strong>Activity</strong> :sparkles:</p></h2>
   <div>
     <p><strong style="color: #f39c12; font-size: 18px;">2025. 01 - 진행중</strong><br>
        <span style="font-size: 16px;">멋쟁이사자처럼 프론트엔드 플러스 3기</span></p>
