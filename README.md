@@ -26,6 +26,6 @@
     <p><strong style="color: #4285F4; font-size: 18px;">2024. 09 - 진행중</strong><br>
        <span style="font-size: 16px;">Google Developer Groups On Campus: Kangnam Univ. 1기</span></p>
     <p><strong style="color: #e74c3c; font-size: 18px;">2023. 01 - 2023. 12</strong><br>
-       <span style="font-size: 16px;">멋쟁이사자처럼 11기</span></p>
+       <span style="font-size: 16px;">멋쟁이사자처럼 대학 11기</span></p>
   </div>
 </div>
