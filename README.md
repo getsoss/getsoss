@@ -31,7 +31,9 @@
     </p>
     <p>
       <strong style="color: #f39c12; font-size: 18px;">2025. 09 - 2025. 12</strong><br>
-      <span style="font-size: 16px;">아바드(주) 인턴</span>
+      <span style="font-size: 16px;">
+        <a href="https://avac.co.kr/">아바드(주)</a> 인턴
+      </span>
     </p>
     <p>
       <strong style="color: #f39c12; font-size: 18px;">2025. 01 - 2025. 03</strong><br>
