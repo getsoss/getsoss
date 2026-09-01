@@ -32,7 +32,7 @@
     <p>
       <strong style="color: #f39c12; font-size: 18px;">2025. 09 - 2025. 12</strong><br>
       <span style="font-size: 16px;">
-        <a href="https://avac.co.kr/">아바드(주)</a> 인턴
+        <a href="https://avad.co.kr/">아바드(주)</a> 인턴
       </span>
     </p>
     <p>
